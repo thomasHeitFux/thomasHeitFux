@@ -25,6 +25,7 @@ ____________________
 🚀 Technologies: 
 React - Redux - Tailwind - NodeJS- Express - PostgreSQL - Firebase - SweetAlert
 
+👽 <a href="https://planb-rho.vercel.app/" target="_blank">Link to the website</a>
 <!-- <img align="left"  width= "350px" src='producto.png' />
 <img align="center" width= "350px" src='productos.png' />
 <img align="left" width= "350px" src='carrito.png' />
