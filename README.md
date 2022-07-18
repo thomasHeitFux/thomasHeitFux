@@ -2,8 +2,8 @@
     <img src='cerebro.png' />
 </p> -->
 
-# Hi there, I´m Victoria! 👾
-### Phychologist, Full stack web developer* 
+# Hi there, I´m Thomas! 👾
+### Full stack web developer* 
 *Also video game lover
 
 The part that enjoy the most of a project is when I am listening to the client and the vision they have of their product. Also love giving it a really cool view!
@@ -15,7 +15,7 @@ The part that enjoy the most of a project is when I am listening to the client a
 👇
 👇   
 ____________________
-## PETSHOP 
+## POKEAPP
 
 
 📌 Ecommerce developed to sale pet shop products
