@@ -12,9 +12,9 @@ Flexible, reliable, with an assertive communication style and willing to meet ch
 
 <!-- [![Thom's github stats](https://github-readme-stats.vercel.app/api?username=vickycabrera&show_icons=true&theme=synthwave)](https://github.com/vickycabrera/github-readme-stats) -->
 
-___________________
+___________________________________________
 
- PROJECTS:
+## PROJECTS:
 
 
 ## ShoesApp
@@ -40,7 +40,7 @@ React - Redux - Tailwind - NodeJS- Express - PostgreSQL - Firebase - SweetAlert
 React - Redux - NodeJS - Express - PostgreSQL  
 
 👽 <a href="https://poke-app-three-bice.vercel.app/" target="_blank">Link to the website</a>
-_________________________
+___________________________________________
 <!-- <img align="left" width= "350px" src='login.png' />
 <img align="center" width= "350px" src='editarperfil.png' />
 <img align="left" width= "350px" src='herramientas.png' />
