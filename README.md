@@ -51,8 +51,6 @@ React - Redux - NodeJS - Express - PostgreSQL
 
 *Front*
 
-<a href="https://www.w3.org/html/" target="_blank"> </a> <a href="https://www.w3schools.com/css/" target="_blank">  </a> <a href="https://reactjs.org/" target="_blank">   </a> <a href="https://redux.js.org" target="_blank"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> </a> <a href="https://material-ui.com/" target="_blank"> </a><a href="https://getbootstrap.com" target="_blank"> </a>
-<p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" align="center" margin-left="10px"/> 
 </a>
