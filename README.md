@@ -12,10 +12,7 @@ Flexible, reliable, with an assertive communication style and willing to meet ch
 
 <!-- [![Thom's github stats](https://github-readme-stats.vercel.app/api?username=vickycabrera&show_icons=true&theme=synthwave)](https://github.com/vickycabrera/github-readme-stats) -->
 
-## Checkout my work
-👇
-👇
-👇   
+## Projects
 ____________________
 ## SHOESAPP
 
@@ -50,7 +47,7 @@ React - Redux - NodeJS - Express - PostgreSQL
 <!-- <img width= "400px" src='seleccionarpm.png' />
 <img width= "400px" src='mail.png' /> -->
 
-## ⚡Languages and Tools:
+## Languages and Tools:
 
 *Front*
 
