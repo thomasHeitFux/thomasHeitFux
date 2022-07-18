@@ -12,9 +12,9 @@ Flexible, reliable, with an assertive communication style and willing to meet ch
 
 <!-- [![Thom's github stats](https://github-readme-stats.vercel.app/api?username=vickycabrera&show_icons=true&theme=synthwave)](https://github.com/vickycabrera/github-readme-stats) -->
 
-## Projects
+## PROJECTS:
 ____________________
-## SHOESAPP
+## ShoesApp
 
 
 📌 Ecommerce developed to sale shoes
@@ -29,8 +29,7 @@ React - Redux - Tailwind - NodeJS- Express - PostgreSQL - Firebase - SweetAlert
 <img align="center"width= "350px" src='tablaordenes.png' /> -->
 
 ____________
-
-## POKEMON APP 
+## PokemonApp 
 
 📌 Developed  my first single page application
 
