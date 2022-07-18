@@ -2,11 +2,13 @@
     <img src='cerebro.png' />
 </p> -->
 
-# Hi there, I´m Thomas! 👾
+# Hi there, I´m Thomas! 
 ### Full stack web developer* 
 *Also video game lover
 
 <!-- The part that enjoy the most of a project is when I am listening to the client and the vision they have of their product. Also love giving it a really cool view! -->
+I'm a web developer from Argentina with experience in PERN stack.
+Flexible, reliable, with an assertive communication style and willing to meet challenges.
 
 <!-- [![Thom's github stats](https://github-readme-stats.vercel.app/api?username=vickycabrera&show_icons=true&theme=synthwave)](https://github.com/vickycabrera/github-readme-stats) -->
 
@@ -21,27 +23,27 @@ ____________________
 📌 Ecommerce developed to sale shoes
 
 🚀 Technologies: 
-React - Redux - Tailwind - NodeJS- Express - PostgreSQL - Firebase
+React - Redux - Tailwind - NodeJS- Express - PostgreSQL - Firebase - SweetAlert
 
-<img align="left"  width= "350px" src='producto.png' />
+<!-- <img align="left"  width= "350px" src='producto.png' />
 <img align="center" width= "350px" src='productos.png' />
 <img align="left" width= "350px" src='carrito.png' />
-<img align="center"width= "350px" src='tablaordenes.png' />
+<img align="center"width= "350px" src='tablaordenes.png' /> -->
 
 ____________
 
-## HENRY APP 
+## POKEMON APP 
 
-📌 Developed with the aim of improving administrative channels of Henry´s community
+📌 Developed  my first single page application
 
 🚀 Technologies: 
-React - Redux - Material UI - NodeJS- Express - PostgreSQL - Passport 
+React - Redux - NodeJS - Express - PostgreSQL  
 
 
-<img align="left" width= "350px" src='login.png' />
+<!-- <img align="left" width= "350px" src='login.png' />
 <img align="center" width= "350px" src='editarperfil.png' />
 <img align="left" width= "350px" src='herramientas.png' />
-<img align="center" width= "350px" src='alumnos.png' />
+<img align="center" width= "350px" src='alumnos.png' /> -->
 <!-- <img width= "400px" src='seleccionarpm.png' />
 <img width= "400px" src='mail.png' /> -->
 
