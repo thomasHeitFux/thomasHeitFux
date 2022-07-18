@@ -14,7 +14,7 @@ Flexible, reliable, with an assertive communication style and willing to meet ch
 
 ___________________
 
-## PROJECTS:
+ PROJECTS:
 
 
 ## ShoesApp
@@ -40,8 +40,7 @@ React - Redux - Tailwind - NodeJS- Express - PostgreSQL - Firebase - SweetAlert
 React - Redux - NodeJS - Express - PostgreSQL  
 
 👽 <a href="https://poke-app-three-bice.vercel.app/" target="_blank">Link to the website</a>
-
-
+_________________________
 <!-- <img align="left" width= "350px" src='login.png' />
 <img align="center" width= "350px" src='editarperfil.png' />
 <img align="left" width= "350px" src='herramientas.png' />
