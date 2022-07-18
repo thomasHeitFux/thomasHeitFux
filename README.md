@@ -89,13 +89,8 @@ React - Redux - NodeJS - Express - PostgreSQL
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" align="center" margin-left="10px"/> 
 </a>
 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" align="center" margin-left="10px"/> 
-</a>
+
  
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" align="center" margin-left="10px"/> 
-</a>
 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" align="center" margin-left="10px"/> 
@@ -110,9 +105,14 @@ React - Redux - NodeJS - Express - PostgreSQL
 
 *Back*
 
-<a href="https://www.postgresql.org" target="_blank">  </a> <a href="https://nodejs.org" target="_blank">  </a> <a href="https://www.mysql.com/" target="_blank"> </a> <a href="https://expressjs.com" target="_blank">  </a> 
 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" align="center" margin-left="10px"/> 
+</a>
 
+ <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" align="center" margin-left="10px"/> 
+</a>
 ___________________________________________
 
 ## 📫 CONTACT ME
