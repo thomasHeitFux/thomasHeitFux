@@ -16,7 +16,7 @@ ___________________
 
 ## PROJECTS:
 
-___________________
+
 ## ShoesApp
 
 
@@ -31,7 +31,7 @@ React - Redux - Tailwind - NodeJS- Express - PostgreSQL - Firebase - SweetAlert
 <img align="left" width= "350px" src='carrito.png' />
 <img align="center"width= "350px" src='tablaordenes.png' /> -->
 
-____________
+
 ## PokemonApp 
 
 📌 Developed  my first single page application
