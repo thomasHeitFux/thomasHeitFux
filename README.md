@@ -39,6 +39,8 @@ ____________
 🚀 Technologies: 
 React - Redux - NodeJS - Express - PostgreSQL  
 
+<a href="https://poke-app-three-bice.vercel.app/" target="_blank">Link to the website</a>
+
 
 <!-- <img align="left" width= "350px" src='login.png' />
 <img align="center" width= "350px" src='editarperfil.png' />
