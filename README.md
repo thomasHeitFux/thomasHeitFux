@@ -8,20 +8,20 @@
 
 The part that enjoy the most of a project is when I am listening to the client and the vision they have of their product. Also love giving it a really cool view!
 
-[![Vicky's github stats](https://github-readme-stats.vercel.app/api?username=vickycabrera&show_icons=true&theme=synthwave)](https://github.com/vickycabrera/github-readme-stats)
+[![Thom's github stats](https://github-readme-stats.vercel.app/api?username=vickycabrera&show_icons=true&theme=synthwave)](https://github.com/vickycabrera/github-readme-stats)
 
 ## Checkout my work
 👇
 👇
 👇   
 ____________________
-## POKEAPP
+## SHOESAPP
 
 
-📌 Ecommerce developed to sale pet shop products
+📌 Ecommerce developed to sale shoes
 
 🚀 Technologies: 
-React - Redux - Bootstrap - NodeJS- Express - PostgreSQL - Passport
+React - Redux - Tailwind - NodeJS- Express - PostgreSQL - Firebase
 
 <img align="left"  width= "350px" src='producto.png' />
 <img align="center" width= "350px" src='productos.png' />
@@ -82,7 +82,7 @@ ___________________________________________
 
 Have a question or want to work together? 
 
-**Email:** vlcabrera92@hotmail.com
+**Email:** thomas41392@hotmail.com
 
-<a href="https://www.linkedin.com/in/victorialauracabrera/" target="blank">
+<a href="https://www.linkedin.com/in/dominguezthomas/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/victorialauracabrera/" height="30" width="40" /></a>
