@@ -25,6 +25,7 @@ ___________________________________________
 🚀 Technologies: 
 React - Redux - Tailwind - NodeJS- Express - PostgreSQL - Firebase - SweetAlert
 <br/>
+
 <img src='https://github.com/thomasHeitFux/portfolio/blob/master/src/images/ecommerce1.jpeg' width='500px'/>
 
 👽 <a href="https://planb-rho.vercel.app/" target="_blank">Link to the website</a>
