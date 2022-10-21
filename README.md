@@ -35,6 +35,26 @@ React - Redux - Tailwind - NodeJS- Express - PostgreSQL - Firebase - SweetAlert
 <img align="center"width= "350px" src='tablaordenes.png' /> -->
 
 
+## MarvelApp 
+
+📌 Developed  my first mobile application
+
+🚀 Technologies: 
+React native - Redux - css  
+<br/>
+<img src='https://github.com/thomasHeitFux/portfolio/blob/master/src/images/spidey1.jpeg' width='200px'/>
+
+
+👽 <a href="https://www.youtube.com/shorts/I_ChW6vNYpw" target="_blank">Link to the website</a>
+___________________________________________
+<!-- <img align="left" width= "350px" src='login.png' />
+<img align="center" width= "350px" src='editarperfil.png' />
+<img align="left" width= "350px" src='herramientas.png' />
+<img align="center" width= "350px" src='alumnos.png' /> -->
+<!-- <img width= "400px" src='seleccionarpm.png' />
+<img width= "400px" src='mail.png' /> -->
+
+
 ## PokemonApp 
 
 📌 Developed  my first full stack single page application
