@@ -43,6 +43,7 @@ React - Redux - Tailwind - NodeJS- Express - PostgreSQL - Firebase - SweetAlert
 React native - Redux - css  
 <br/>
 <img src='https://github.com/thomasHeitFux/portfolio/blob/master/src/images/spidey1.jpeg' width='200px'/>
+<video src="https://www.youtube.com/shorts/I_ChW6vNYpw" width="640" height="480"></video>
 
 
 👽 <a href="https://www.youtube.com/shorts/I_ChW6vNYpw" target="_blank">Link to the website</a>
