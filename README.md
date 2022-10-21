@@ -37,7 +37,7 @@ React - Redux - Tailwind - NodeJS- Express - PostgreSQL - Firebase - SweetAlert
 
 ## PokemonApp 
 
-📌 Developed  my first single page application
+📌 Developed  my first full stack single page application
 
 🚀 Technologies: 
 React - Redux - NodeJS - Express - PostgreSQL  
@@ -53,6 +53,27 @@ ___________________________________________
 <img align="center" width= "350px" src='alumnos.png' /> -->
 <!-- <img width= "400px" src='seleccionarpm.png' />
 <img width= "400px" src='mail.png' /> -->
+
+## WeatherApp 
+
+📌 Developed my first single page application
+
+🚀 Technologies: 
+React - Tailwind - sass  
+<br/>
+<img src='https://github.com/thomasHeitFux/portfolio/blob/master/src/images/weatherapp.png' width='500px'/>
+
+
+👽 <a href="https://weatherapp-kappa-inky.vercel.app/" target="_blank">Link to the website</a>
+___________________________________________
+<!-- <img align="left" width= "350px" src='login.png' />
+<img align="center" width= "350px" src='editarperfil.png' />
+<img align="left" width= "350px" src='herramientas.png' />
+<img align="center" width= "350px" src='alumnos.png' /> -->
+<!-- <img width= "400px" src='seleccionarpm.png' />
+<img width= "400px" src='mail.png' /> -->
+
+
 
 ## Languages and Tools:
 
