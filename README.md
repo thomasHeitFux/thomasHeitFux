@@ -24,7 +24,8 @@ ___________________________________________
 
 🚀 Technologies: 
 React - Redux - Tailwind - NodeJS- Express - PostgreSQL - Firebase - SweetAlert
-<img src='https://github.com/thomasHeitFux/portfolio/blob/master/src/images/ecommerce1.jpeg' width='400px'/>
+<br/>
+<img src='https://github.com/thomasHeitFux/portfolio/blob/master/src/images/ecommerce1.jpeg' width='500px'/>
 
 👽 <a href="https://planb-rho.vercel.app/" target="_blank">Link to the website</a>
 <!-- <img align="left"  width= "350px" src='producto.png' />
@@ -39,6 +40,9 @@ React - Redux - Tailwind - NodeJS- Express - PostgreSQL - Firebase - SweetAlert
 
 🚀 Technologies: 
 React - Redux - NodeJS - Express - PostgreSQL  
+<br/>
+<img src='https://github.com/thomasHeitFux/portfolio/blob/master/src/images/pokemon.png' width='500px'/>
+
 
 👽 <a href="https://poke-app-three-bice.vercel.app/" target="_blank">Link to the website</a>
 ___________________________________________
