@@ -42,7 +42,7 @@ React - Redux - Tailwind - NodeJS- Express - PostgreSQL - Firebase - SweetAlert
 🚀 Technologies: 
 React native - Redux - css  
 <br/>
-<img src='https://github.com/thomasHeitFux/portfolio/blob/master/src/images/spidey1.jpeg' width='200px'/><img src='https://github.com/thomasHeitFux/portfolio/blob/master/src/images/spidey2.jpeg' width='200px'/><img src='https://github.com/thomasHeitFux/portfolio/blob/master/src/images/spidey3.jpeg' width='200px'/>
+<img src='https://github.com/thomasHeitFux/portfolio/blob/master/src/images/spidey1.jpeg' width='200px'/><img src='https://github.com/thomasHeitFux/portfolio/blob/master/src/images/spidey2.jpeg' width='200px' margin="5px"/><img src='https://github.com/thomasHeitFux/portfolio/blob/master/src/images/spidey3.jpeg' width='200px'/>
 
 
 👽 <a href="https://www.youtube.com/shorts/I_ChW6vNYpw" target="_blank">Link to the website</a>
