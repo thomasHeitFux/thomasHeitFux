@@ -45,7 +45,7 @@ React native - Redux - css
 <img src='https://github.com/thomasHeitFux/portfolio/blob/master/src/images/spidey1.jpeg' width='200px'/>  <img src='https://github.com/thomasHeitFux/portfolio/blob/master/src/images/spidey2.jpeg' width='200px'/>  <img src='https://github.com/thomasHeitFux/portfolio/blob/master/src/images/spidey3.jpeg' width='200px'/>
 
 
-👽 <a href="https://expo.dev/@thomasfux/Marvel-App" target="_blank">Link to the website</a>
+👽 <a href="https://expo.dev/@thomasfux/Marvel-App" target="blank">Link to the website</a>
 ___________________________________________
 <!-- <img align="left" width= "350px" src='login.png' />
 <img align="center" width= "350px" src='editarperfil.png' />
