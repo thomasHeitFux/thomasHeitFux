@@ -16,6 +16,17 @@ ___________________________________________
 
 ## PROJECTS:
 
+### Expense Tracker App
+
+📌 My latest Java project is an Expense Tracker application that helps users manage their expenses and income, providing a balance overview. 
+
+🚀 Technologies and Tools Used: 
+- Java
+- JUnit and Mockito for testing
+
+This project showcases my ability to create robust and efficient Java applications, along with writing unit tests for ensuring code quality and reliability.
+
+👽 <a href="https://github.com/thomasHeitFux/JavaIntegrador" target="_blank">Link to the repo</a>
 
 ## ShoesApp
 
